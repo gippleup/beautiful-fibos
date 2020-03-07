@@ -1,0 +1,8 @@
+.fibo.linear {
+    font-size: 6px;
+    line-height: 8px;
+    background: -webkit-linear-gradient(rgb(255, 124, 124), rgb(91, 46, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
